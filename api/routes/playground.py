@@ -11,7 +11,7 @@ from workflows.investment_report_generator import get_investment_report_generato
 from workspace.dev_resources import dev_fastapi
 
 ######################################################
-## Router for the Playground Interface
+# Router for the Playground Interface
 ######################################################
 
 # Agents
